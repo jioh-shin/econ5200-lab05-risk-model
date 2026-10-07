@@ -1,4 +1,3 @@
-# econ5200-lab05-risk-model
 # Diagnosing a Flawed Risk Model — VaR, Expected Shortfall & Monte Carlo
 
 ## Objective
